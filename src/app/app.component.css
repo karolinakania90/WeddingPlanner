@@ -1,0 +1,16 @@
+.introimage {
+    background-image: url("../assets/intro.jpg");
+    background-size: cover;
+    height: 800px;
+}
+
+.intro h1 {
+    padding-left: 30px;
+    font-size: 40px;
+}
+
+.joinbutton {
+    margin-left: 30px;
+    height: 40px;
+    width: 180px;
+}
